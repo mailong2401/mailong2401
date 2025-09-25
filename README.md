@@ -162,10 +162,3 @@ Flutter/Dart   █████████████████████�
 Unity/C#       ██████████                  20%
 ```
 <!--END_SECTION:waka-->
-
-**Note:** Để GitHub stats hiển thị chính xác, bạn cần:
-1. Đảm bảo username GitHub của bạn là `gtmailong`
-2. Có public activity trên GitHub
-3. Nếu stats vẫn không hiển thị, có thể do API tạm thời không hoạt động
-
-Profile README này đã được sửa lỗi syntax và format đúng cách! 🚀
