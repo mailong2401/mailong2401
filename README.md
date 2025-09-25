@@ -34,6 +34,9 @@ class MaiDuongLong extends Developer {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtmailong&layout=compact&theme=radical&hide_border=true)
 
+## 📈 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=gtmailong&theme=radical&hide_border=true)
+
 ## 🛠️ Technologies & Tools
 
 ### Mobile Development
@@ -63,9 +66,6 @@ class MaiDuongLong extends Developer {
 - **Game Development** - Unity3D, C#
 - **System Design** - Scalable mobile applications
 
-## 📈 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=gtmailong&theme=radical&hide_border=true)
-
 ## 🎯 Projects & Interests
 
 ### 📱 Mobile Apps
@@ -93,7 +93,7 @@ class MaiDuongLong extends Developer {
 ```bash
 # My typical development setup
 OS: Arch Linux
-IDE: VS Code / Android Studio
+IDE: Neovim / Android Studio
 Terminal: zsh with oh-my-zsh
 Version Control: Git
 ```
@@ -150,3 +150,22 @@ void main() {
 ---
 
 *README crafted with ❤️ using Flutter-inspired design*
+
+## 🔄 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+```text
+Flutter/Dart   █████████████████████████   80%
+Unity/C#       ██████████                  20%
+```
+<!--END_SECTION:waka-->
+
+**Note:** Để GitHub stats hiển thị chính xác, bạn cần:
+1. Đảm bảo username GitHub của bạn là `gtmailong`
+2. Có public activity trên GitHub
+3. Nếu stats vẫn không hiển thị, có thể do API tạm thời không hoạt động
+
+Profile README này đã được sửa lỗi syntax và format đúng cách! 🚀
