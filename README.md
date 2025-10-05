@@ -30,9 +30,9 @@ class MaiDuongLong extends Developer {
 ```
 
 ## 📊 GitHub Stats
-![Mai Long's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtmailong&show_icons=true&theme=radical&hide_border=true)
+![Mai Long's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mailong2401&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtmailong&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mailong2401&layout=compact&theme=radical&hide_border=true)
 
 ## 📈 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mailong2401&theme=radical&hide_border=true)
@@ -86,7 +86,7 @@ class MaiDuongLong extends Developer {
 ## 📫 Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mai.duong.long)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mailong2401)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/gtmailong)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/mailong2401)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 ## 💻 Development Environment
