@@ -35,7 +35,7 @@ class MaiDuongLong extends Developer {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtmailong&layout=compact&theme=radical&hide_border=true)
 
 ## 📈 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=gtmailong&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mailong2401&theme=radical&hide_border=true)
 
 ## 🛠️ Technologies & Tools
 
